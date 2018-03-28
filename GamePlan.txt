@@ -1,0 +1,15 @@
+
+Universal LED controller
+	"Litty Lights"
+
+Features
+	Connects to Wifi
+	Controls LED strip
+	
+	
+
+
+
+
+
+
